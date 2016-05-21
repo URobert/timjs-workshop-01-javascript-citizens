@@ -27,9 +27,9 @@ declaration();
 
 
 //IIFE - Immediate Invoked Function Expression
-//(function() {
-//    console.log("IIFE");
-//    })();
+(function() {
+    console.log("IIFE");
+    })();
 
 /**
  *  methods
