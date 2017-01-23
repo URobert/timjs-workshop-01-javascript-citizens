@@ -16,12 +16,12 @@ var undef = undefined;
 var symb  = Symbol('some description');
 var undefv = "";
 
-//console.log(typeof nr);
-//console.log(typeof str);
-//console.log(typeof bool);
-//console.log(typeof nil);
-//console.log(typeof undef);
-//console.log(typeof symb);
+console.log(typeof nr);
+console.log(typeof str);
+console.log(typeof bool);
+console.log(typeof nil);
+console.log(typeof undef);
+console.log(typeof symb);
 
 //variables
 // -they are case sensitives
